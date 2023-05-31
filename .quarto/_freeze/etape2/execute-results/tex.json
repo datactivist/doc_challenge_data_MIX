@@ -1,0 +1,20 @@
+{
+  "hash": "05d4f21ad08c0a389dfec9b5ec750b3d",
+  "result": {
+    "markdown": "## Etape 2 - Mise en qualité\n\nObjectifs\n\n-   Nettoyage des données \n\n-   Compilation/agrégation avec d\\'autres jeux de données\n\n-   Standardisation éventuelle\n\n## Contenu\n\nUne fois les données à ouvrir identifiées, il faut souvent améliorer leur qualité. Pour cela, la méthodologie proposée consiste à suivre différentes étapes permettant d\\'aborder les problèmes les plus courants de qualité des données. Elle se trouve dans la \\\"liste des points de contrôle - séance #2 Les points de contrôle interne\\\".\n\nUn autre point à vérifier est le besoin de standardisation des données (cf. le catalogue de données qui recense les schémas de données). Dans ce cas, un travail de mise à jour des données sous le format du schéma peut être nécessaire.\n\n## Ressources\n\nListe des points de contrôle : <https://docs.google.com/presentation/d/15ZUJhwysVwfN4IucqNOowlnPHoJd2_XOoIwHTczUX4E/edit?usp=share_link>\n\nStandardiser les données : \n\n-   Pour comprendre comment faire un schéma et ce que c\\'est : [Le guide de standardisation Etalab](https://guides.etalab.gouv.fr/producteurs-schemas/#a-qui-s-adresse-ce-guide)\n\n-   Pour identifier les schémas existants et en cours de conception : [Schéma data gouv](https://schema.data.gouv.fr/)\n\n-   Outils :\n\n    -   Outil de vérification de la qualité d\\'un flux : [outil du PAN](https://transport.data.gouv.fr/validation)\n\n    -   Outil de vérification de la qualité d\\'un flux : [outil du PAN](https://transport.data.gouv.fr/validation)\n\n    -   Pour mettre en forme et publier : [Studio Etalab](https://publier.etalab.studio/) \n\n    -   Pour valider des données standardisées : [Validata](https://validata.fr/)\n\n-   Pour en savoir (beaucoup) plus [Cahier de l\\'observatoire Data Publica](https://nextcloud.datactivist.coop/s/8x3RzHjrRx29R3y/download/Cahier%20Data%20Publica%20#2%20Standardisation.pdf)\n\n-   Pour comprendre les enjeux : [Billet de blog](https://medium.com/datactivist/la-standardisation-des-donn%C3%A9es-ouvertes-un-grand-pouvoir-implique-une-grande-r%C3%A9flexivit%C3%A9-fc3b2030b2b5)\n\nIn summary, this book has no content whatsoever.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [
+      "etape2_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {
+      "knitr": [
+        "{\"type\":\"list\",\"attributes\":{},\"value\":[]}"
+      ]
+    },
+    "preserve": null,
+    "postProcess": false
+  }
+}

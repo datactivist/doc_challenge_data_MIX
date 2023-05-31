@@ -1,0 +1,43 @@
+## Etape 2 - Mise en qualité
+
+Objectifs
+
+-   Nettoyage des données 
+
+-   Compilation/agrégation avec d\'autres jeux de données
+
+-   Standardisation éventuelle
+
+## Contenu
+
+Une fois que les données à ouvrir sont identifiées, il faut souvent en améliorer la qualité. Pour cela, la méthodologie proposée consiste à suivre différentes étapes permettant d\'aborder les problèmes les plus courants de qualité des données.
+
+Un modèle de [liste des points de contrôle](https://nextcloud.datactivist.coop/s/EaAJskCmABDwLXz) est proposé, ainsi qu'un [document explicitant chaque item](https://nextcloud.datactivist.coop/s/WdXo5Zx55oNFtNb).
+
+Un autre point à vérifier est le besoin de standardisation des données (cf. le [catalogue](https://airtable.com/shri9tug2a9KgnNAz) de données qui recense les schémas par typologie de données). Dans ce cas, un travail de mise à jour des données pour les adapter au format du schéma peut être nécessaire.
+
+## Ressources
+
+[Liste des points de contrôle](https://nextcloud.datactivist.coop/s/WdXo5Zx55oNFtNb)
+
+Standardiser les données : 
+
+-   Pour comprendre comment faire un schéma et ce que c\'est : [Le guide de standardisation Etalab](https://guides.etalab.gouv.fr/producteurs-schemas/#a-qui-s-adresse-ce-guide)
+
+-   Pour identifier les schémas existants et en cours de conception : [Schéma data gouv](https://schema.data.gouv.fr/)
+
+-   Outils :
+
+    -   Outil de vérification de la qualité d\'un flux : [outil du PAN](https://transport.data.gouv.fr/validation)
+
+    -   Outil de vérification de la qualité d\'un flux : [outil du PAN](https://transport.data.gouv.fr/validation)
+
+    -   Pour mettre en forme et publier : [Studio Etalab](https://publier.etalab.studio/) 
+
+    -   Pour valider des données standardisées : [Validata](https://validata.fr/)
+
+-   [Les formats par catégorie de données](https://doc.transport.data.gouv.fr/producteurs/les-formats-par-categorie-de-donnees)
+
+-   Pour en savoir (beaucoup) plus [Cahier de l\'observatoire Data Publica](https://nextcloud.datactivist.coop/s/8x3RzHjrRx29R3y/download/Cahier%20Data%20Publica%20#2%20Standardisation.pdf)
+
+-   Pour comprendre les enjeux de la standardisation : [Billet de blog](https://medium.com/datactivist/la-standardisation-des-donn%C3%A9es-ouvertes-un-grand-pouvoir-implique-une-grande-r%C3%A9flexivit%C3%A9-fc3b2030b2b5)

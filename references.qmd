@@ -1,0 +1,23 @@
+# Ressources {.unnumbered}
+
+## Trouver des données
+
+-   [data.gouv](https://www.data.gouv.fr/fr/)
+
+-   [transport.data.gouv](https://transport.data.gouv.fr/)
+
+-   [liste des portails de collectivités](https://airtable.com/shrWxHPi2XjLu9xtM)
+
+## S\'inspirer
+
+-   [Liste des réutilisations sur data.gouv](https://www.data.gouv.fr/fr/reuses/?page_size=21&topic=transport_and_mobility)
+
+-   [Tableau de bord de Bordeaux Métropole sur le vélo](https://opendata.bordeaux-metropole.fr/pages/met-comptage-velo/) 
+
+-   [Métropole Européenne de Lille, page dédiée à la mobilité](https://opendata.lillemetropole.fr/pages/mobilite/)
+
+-   [Observatoire parisien des mobilités](https://parisdata.opendatasoft.com/pages/observatoire-parisien-mobilites/)
+
+-   [Page de réutilisations des données de la RATP](https://data.ratp.fr/page/voscreations/)
+
+-   [Carte des connexions de gares en Europe](https://direkt.bahn.guru) ou [ou carte "Jusqu'où peut-on aller en 5h de train ?"](https://www.chronotrains.com/fr)

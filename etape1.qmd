@@ -1,0 +1,25 @@
+# Etape 1 - Identification des besoins
+
+## Objectifs
+
+-   Comprendre et recueillir les besoins des producteurs de données et des réutilisateurs
+
+## Contenu
+
+Cette étape doit permettre de recenser les différents besoins des acteurs : quelles sont les données détenues par les producteurs de données ? Quels sont les besoins des réutilisateurs ?
+
+Les réutilisateurs vont pouvoir guider les producteurs dans la priorisation de l\'ouverture. Le sujet de la mobilité recouvre une grande variété de données.
+
+La méthodologie appliquée fonctionne en trois étapes (cf la liste d\'identification des besoins) : 
+
+1.  Onglet \"catalogue\" : identification des données que l\'on souhaite ouvrir ou utiliser
+
+2.  Onglet \"Ma liste idéale à ouvrir\" : premier niveau de qualification des données à ouvrir, cela doit offrir une première vision du travail à effectuer sur les données
+
+3.  Onglet \"Ma liste idéale à trouver\" : premier niveau de qualification des données que l\'on souhaite : a-t-on déjà identifier le producteur ? sont-elles couvertes par des dispositions spécifiques qui risquent d\'entraver leur ouverture (protection des données personnelles, secret industriel et commercial...) ?
+
+## Ressources
+
+-   [Liste d\'identification des besoins](https://nextcloud.datactivist.coop/s/pw3ewf8gpgkGK64)
+
+-   [Lien entre demande et ouverture (données du Challenge Data des mobilités)](https://public.flourish.studio/visualisation/12906129/)

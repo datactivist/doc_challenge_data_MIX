@@ -1,0 +1,39 @@
+# Etape 4 - Valorisation
+
+## Objectifs
+
+-   Utiliser les données
+
+-   Communiquer sur les données
+
+## Contenu
+
+Lors d\'un projet d\'ouverture des données, cette étape est optionnelle. La publication d\'un jeu de données brut peut suffire. Néanmoins, il est toujours bon de savoir utiliser soi-même des données publiées. Cela permet de prendre conscience des enjeux de la publication de données : quelles sont les difficultés auxquelles sont confrontés les réutilisateurs ? Que peut-on faire avec des données ?
+
+## Ressources
+
+Se repérer
+
+-   [Carto d'outils](https://framindmap.org/c/maps/112622/embed?zoom=1)
+
+Outils
+
+-   Cartographie : 
+
+    -   [Karthis](https://www.sciencespo.fr/cartographie/khartis/)
+
+    -   [Carto](https://carto.com/)
+
+    -   [QGIS](https://www.qgis.org/fr/site/)
+
+-   Graphique :
+
+    -   [RawGraphs](https://www.rawgraphs.io/)
+
+    -   [Datawrapper](https://www.datawrapper.de/)
+
+    -   [Flourish](https://flourish.studio/)
+
+## Se former
+
+-   [La datavisualisation pas à pas](https://opendatafrance.gitbook.io/editorialisation-des-donnees-publiques/)

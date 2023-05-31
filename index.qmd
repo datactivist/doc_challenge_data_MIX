@@ -1,0 +1,19 @@
+# Introduction {.unnumbered}
+
+Ce parcours décrit les différentes étapes pour l\'ouverture de données. Il reprend la méthodologie mise en oeuvre lors du Challenge Data des Mobilités, ainsi que les différentes ressources produites, identifiées ou partagées à cette occasion. 
+
+Le Challenge Data des Mobilités a été organisé par le [MIX](https://www.mix-rouen.fr/) à destination de ses adhérents. Il a été animé par [Datactivist](https://datactivist.coop/fr/), en adaptant la méthodologie du [Challenge Data](https://opendatacanvas.org/challenge-data).
+
+## Objectifs du Challenge data des mobilités
+
+Mettre à disposition de l'écosystème de membres un ensemble de données utiles et prêtes à l\'usage pour des projets collaboratifs.
+
+En : 
+
+-   alimentant l\'écosystème en données utiles
+
+-   ayant une vision des données produites et utilisées par l\'écosystème du MIX
+
+-   encourageant les adhérents à l\'ouverture
+
+-   offrant un accompagnement adapté aux participants

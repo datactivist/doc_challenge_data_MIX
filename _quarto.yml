@@ -1,0 +1,30 @@
+project:
+  type: book
+
+book:
+  title: "Documentation du parcours Challenge Data des mobilités"
+  author: "Datactivist"
+  date: "05/24/2023"
+  downloads: [pdf]
+  page-footer:
+    left: |
+      Licence du document : CC-BY-SA
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - etape1.qmd
+    - etape2.qmd
+    - etape3.qmd
+    - etape4.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
