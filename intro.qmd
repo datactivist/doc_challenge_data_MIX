@@ -4,7 +4,7 @@
 
 -   Recruter des participants
 
--   Evaluer la maturité des acteurs
+-   Evaluer la maturité des acteurs, comprendre leurs missions, besoins et attentes
 
 -   Recenser les données qui pourraient être partagées ou ouvertes
 
@@ -18,13 +18,13 @@ Deux grands types d'acteurs peuvent être identifiés :
 
 -   Les réutilisateurs de données
 
-L\'identification des acteurs doit aussi permettre de mesurer leur niveau de maturité, d\'identifier les freins éventuels et les éléments de facilitation qui peuvent exister. 
+L'identification des acteurs doit aussi permettre de mesurer leur niveau de maturité, d'identifier les freins éventuels et les éléments de facilitation qui peuvent exister. 
 
 Pour lancer la démarche de challenge data, une première série d'actions préparatoires a été menée :
 
 -   Organisation d'un [webinaire de présentation](https://nextcloud.datactivist.coop/s/AZYDqQiYeRNBABo).
 
--   [Entretiens](https://nextcloud.datactivist.coop/s/iYcJd46nPPPc72K) avec les participants afin de comprendre, en amont, leur contexte et leurs attentes.
+-   [Entretiens](https://nextcloud.datactivist.coop/s/iYcJd46nPPPc72K) avec les participants afin de comprendre, en amont, leur contexte et leurs attentes. Lors des entretiens, des premières pistes de données ouvrables ou disponibles sont mentionnées par les acteurs.
 
 ## Ressources
 

@@ -2,23 +2,23 @@
 
 ## Objectifs
 
--   Utiliser les données
+-   Découvrir des outils de valorisation de données
 
--   Communiquer sur les données
+-   Utiliser les données
 
 ## Contenu
 
-Lors d\'un projet d\'ouverture des données, cette étape est optionnelle. La publication d\'un jeu de données brut peut suffire. Néanmoins, il est toujours bon de savoir utiliser soi-même des données publiées. Cela permet de prendre conscience des enjeux de la publication de données : quelles sont les difficultés auxquelles sont confrontés les réutilisateurs ? Que peut-on faire avec des données ?
+Lors d'un projet d'ouverture des données, cette étape est optionnelle. La publication d'un jeu de données brut peut suffire. Néanmoins, il est toujours bon de savoir utiliser soi-même des données publiées. Cela permet de prendre conscience des enjeux de la publication de données : quelles sont les difficultés auxquelles sont confrontés les réutilisateurs ? Que peut-on faire avec des données ?
 
 ## Ressources
 
-Se repérer
+### Se repérer
 
 -   [Carto d'outils](https://framindmap.org/c/maps/112622/embed?zoom=1)
 
-Outils
+### Outils
 
--   Cartographie : 
+-   *Cartographie :* 
 
     -   [Karthis](https://www.sciencespo.fr/cartographie/khartis/)
 
@@ -26,7 +26,7 @@ Outils
 
     -   [QGIS](https://www.qgis.org/fr/site/)
 
--   Graphique :
+-   *Graphique et autres datavisualisations :*
 
     -   [RawGraphs](https://www.rawgraphs.io/)
 
@@ -34,6 +34,6 @@ Outils
 
     -   [Flourish](https://flourish.studio/)
 
-## Se former
+### Se former
 
 -   [La datavisualisation pas à pas](https://opendatafrance.gitbook.io/editorialisation-des-donnees-publiques/)

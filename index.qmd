@@ -1,19 +1,37 @@
 # Introduction {.unnumbered}
 
-Ce parcours décrit les différentes étapes pour l\'ouverture de données. Il reprend la méthodologie mise en oeuvre lors du Challenge Data des Mobilités, ainsi que les différentes ressources produites, identifiées ou partagées à cette occasion. 
+Ce parcours décrit les différentes étapes pour l'ouverture de données. Il reprend la méthodologie mise en oeuvre lors du Challenge Data des Mobilités, ainsi que les différentes ressources produites, identifiées ou partagées à cette occasion. 
 
 Le Challenge Data des Mobilités a été organisé par le [MIX](https://www.mix-rouen.fr/) à destination de ses adhérents. Il a été animé par [Datactivist](https://datactivist.coop/fr/), en adaptant la méthodologie du [Challenge Data](https://opendatacanvas.org/challenge-data).
 
 ## Objectifs du Challenge data des mobilités
 
-Mettre à disposition de l'écosystème de membres un ensemble de données utiles et prêtes à l\'usage pour des projets collaboratifs.
+L'objectif principal du challenge est de mettre à disposition de l'écosystème des membres du MIX un ensemble de données utiles et prêtes à l'usage pour des projets collaboratifs.
 
 En : 
 
--   alimentant l\'écosystème en données utiles
+-   alimentant l'écosystème en données utiles
 
--   ayant une vision des données produites et utilisées par l\'écosystème du MIX
+-   ayant une vision des données produites et utilisées par l'écosystème du MIX
 
--   encourageant les adhérents à l\'ouverture
+-   encourageant les adhérents à l'ouverture
 
 -   offrant un accompagnement adapté aux participants
+
+Les projets collaboratifs portés au sein du MIX concernent l'innovation en matière de mobilité durable et éco-responsable des biens et des personnes.
+
+Organisation du challenge data du MIX
+
+**Webinaire le 6 février 2023**
+
+-   **Entretiens avec les participants**
+
+-   **1ère séance le 28 février**
+
+-   **2ème séance le 21 mars**
+
+-   **3ème séance le 11 avril**
+
+-   **4ème séance le 10 mai**
+
+Dans la continuité du challenge data, un hackathon a été organisé par le MIX et Latitudes. 
