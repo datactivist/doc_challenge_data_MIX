@@ -19,5 +19,110 @@
     "title": "1  Pré-requis - diagnostic",
     "section": "1.3 Ressources",
     "text": "1.3 Ressources\n\nCartographie des acteurs du MIX\nCatalogue de données (identifiées lors du Challenge data)"
+  },
+  {
+    "objectID": "etape2.html",
+    "href": "etape2.html",
+    "title": "3  Etape 2 - Mise en qualité",
+    "section": "",
+    "text": "Objectifs"
+  },
+  {
+    "objectID": "etape2.html#contenu",
+    "href": "etape2.html#contenu",
+    "title": "3  Etape 2 - Mise en qualité",
+    "section": "3.1 Contenu",
+    "text": "3.1 Contenu\nUne fois que les données à ouvrir sont identifiées, il faut souvent en améliorer la qualité. Pour cela, la méthodologie proposée consiste à suivre différentes étapes permettant d’aborder les problèmes les plus courants de qualité des données.\nUn modèle de liste des points de contrôle est proposé, ainsi qu’un document explicitant chaque item.\nUn autre point à vérifier est le besoin de standardisation des données (cf. le catalogue de données qui recense les schémas par typologie de données). Dans ce cas, un travail de mise à jour des données pour les adapter au format du schéma peut être nécessaire."
+  },
+  {
+    "objectID": "etape2.html#ressources",
+    "href": "etape2.html#ressources",
+    "title": "3  Etape 2 - Mise en qualité",
+    "section": "3.2 Ressources",
+    "text": "3.2 Ressources\nListe des points de contrôle\nStandardiser les données : \n\nPour comprendre comment faire un schéma et ce que c’est : Le guide de standardisation Etalab\nPour identifier les schémas existants et en cours de conception : Schéma data gouv\nOutils :\n\nOutil de vérification de la qualité d’un flux : outil du PAN\nOutil de vérification de la qualité d’un flux : outil du PAN\nPour mettre en forme et publier : Studio Etalab \nPour valider des données standardisées : Validata\n\nLes formats par catégorie de données\nPour en savoir (beaucoup) plus Cahier de l’observatoire Data Publica\nPour comprendre les enjeux de la standardisation : Billet de blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Documentation du parcours Challenge Data des mobilités",
+    "section": "",
+    "text": "Ce parcours décrit les différentes étapes pour l’ouverture de données. Il reprend la méthodologie mise en oeuvre lors du Challenge Data des Mobilités, ainsi que les différentes ressources produites, identifiées ou partagées à cette occasion. \nLe Challenge Data des Mobilités a été organisé par le MIX à destination de ses adhérents. Il a été animé par Datactivist, en adaptant la méthodologie du Challenge Data.\n\n\nL’objectif principal du challenge est de mettre à disposition de l’écosystème des membres du MIX un ensemble de données utiles et prêtes à l’usage pour des projets collaboratifs.\nEn : \n\nalimentant l’écosystème en données utiles\nayant une vision des données produites et utilisées par l’écosystème du MIX\nencourageant les adhérents à l’ouverture\noffrant un accompagnement adapté aux participants\n\nLes projets collaboratifs portés au sein du MIX concernent l’innovation en matière de mobilité durable et éco-responsable des biens et des personnes.\nOrganisation du challenge data du MIX\nWebinaire le 6 février 2023\n\nEntretiens avec les participants\n1ère séance le 28 février\n2ème séance le 21 mars\n3ème séance le 11 avril\n4ème séance le 10 mai\n\nDans la continuité du challenge data, un hackathon a été organisé par le MIX et Latitudes."
+  },
+  {
+    "objectID": "etape1.html",
+    "href": "etape1.html",
+    "title": "2  Etape 1 - Identification des besoins",
+    "section": "",
+    "text": "Explorer les jeux de données que les acteurs possèdent\nRéaliser une première évaluation du travail de mise en qualité\nEtablir une liste de données à ouvrir et/ou de données souhaitées pour des réutilisations"
+  },
+  {
+    "objectID": "etape1.html#contenu",
+    "href": "etape1.html#contenu",
+    "title": "2  Etape 1 - Identification des besoins",
+    "section": "2.2 Contenu",
+    "text": "2.2 Contenu\nCette étape doit permettre de recenser les différents besoins des acteurs : quelles sont les données détenues par les producteurs de données ? Quels sont les besoins des réutilisateurs ?\nLes réutilisateurs vont pouvoir guider les producteurs dans la priorisation de l’ouverture. Le sujet de la mobilité recouvre une grande variété de données.\nLa méthodologie appliquée fonctionne en trois étapes (cf la liste d’identification des besoins) : \n\nOnglet “catalogue” : identification des données que l’on souhaite ouvrir ou utiliser\nOnglet “Ma liste idéale à ouvrir” : premier niveau de qualification des données à ouvrir, cela doit offrir une première vision du travail à effectuer sur les données\nOnglet “Ma liste idéale à trouver” : premier niveau de qualification des données que l’on souhaite : a-t-on déjà identifier le producteur ? sont-elles couvertes par des dispositions spécifiques qui risquent d’entraver leur ouverture (protection des données personnelles, secret industriel et commercial…) ?"
+  },
+  {
+    "objectID": "etape1.html#ressources",
+    "href": "etape1.html#ressources",
+    "title": "2  Etape 1 - Identification des besoins",
+    "section": "2.3 Ressources",
+    "text": "2.3 Ressources\n\nListe d’identification des besoins\nLien entre demande et ouverture (données du Challenge Data des mobilités)"
+  },
+  {
+    "objectID": "etape3.html",
+    "href": "etape3.html",
+    "title": "4  Etape 3 - Publication",
+    "section": "",
+    "text": "Faciliter la découvrabilité et l’usage des données à travers le renseignement précis des métadonnées et de la licence\n\n\n\nPublier les données sur une plateforme adaptée"
+  },
+  {
+    "objectID": "etape3.html#contenu",
+    "href": "etape3.html#contenu",
+    "title": "4  Etape 3 - Publication",
+    "section": "4.2 Contenu",
+    "text": "4.2 Contenu\nUne fois les données mise en qualité, elles sont prêtes pour la publication sur une plateforme de données ouvertes.\n\nEn complément des éléments de qualité interne des données, quelques vérifications complémentaires peuvent s’avérer nécessaire : elles sont listées dans la liste des points de contrôle externe.\nIl faut ensuite préparer la publication en préparant la description des données (métadonnées descriptives).\nLe choix de la plateforme de publication peut s’avérer nécessaire : pour toutes les données qui concernent les transports ce sera sur transports.data.gouv, dans le cas où la structure qui va ouvrir ses données est impliquées dans un projet de plateforme de données ouvertes, la publication se fera sur celle-ci et, dans tous les autres cas, elle se fera sur data.gouv.fr."
+  },
+  {
+    "objectID": "etape3.html#ressources",
+    "href": "etape3.html#ressources",
+    "title": "4  Etape 3 - Publication",
+    "section": "4.3 Ressources",
+    "text": "4.3 Ressources\n\nFiches de métadonnées\nDocumentation de data.gouv.fr :\n\nCréer un compte\nPublier un jeu de données\nCréer une organisation"
+  },
+  {
+    "objectID": "etape4.html",
+    "href": "etape4.html",
+    "title": "5  Etape 4 - Valorisation",
+    "section": "",
+    "text": "Découvrir des outils de valorisation de données\nUtiliser les données"
+  },
+  {
+    "objectID": "etape4.html#contenu",
+    "href": "etape4.html#contenu",
+    "title": "5  Etape 4 - Valorisation",
+    "section": "5.2 Contenu",
+    "text": "5.2 Contenu\nLors d’un projet d’ouverture des données, cette étape est optionnelle. La publication d’un jeu de données brut peut suffire. Néanmoins, il est toujours bon de savoir utiliser soi-même des données publiées. Cela permet de prendre conscience des enjeux de la publication de données : quelles sont les difficultés auxquelles sont confrontés les réutilisateurs ? Que peut-on faire avec des données ?"
+  },
+  {
+    "objectID": "etape4.html#ressources",
+    "href": "etape4.html#ressources",
+    "title": "5  Etape 4 - Valorisation",
+    "section": "5.3 Ressources",
+    "text": "5.3 Ressources\n\n5.3.1 Se repérer\n\nCarto d’outils\n\n\n\n5.3.2 Outils\n\nCartographie : \n\nKarthis\nCarto\nQGIS\n\nGraphique et autres datavisualisations :\n\nRawGraphs\nDatawrapper\nFlourish\n\n\n\n\n5.3.3 Se former\n\nLa datavisualisation pas à pas"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Ressources",
+    "section": "",
+    "text": "data.gouv\ntransport.data.gouv\nliste des portails de collectivités"
+  },
+  {
+    "objectID": "references.html#sinspirer",
+    "href": "references.html#sinspirer",
+    "title": "Ressources",
+    "section": "S'inspirer",
+    "text": "S'inspirer\n\nListe des réutilisations sur data.gouv\nTableau de bord de Bordeaux Métropole sur le vélo \nMétropole Européenne de Lille, page dédiée à la mobilité\nObservatoire parisien des mobilités\nPage de réutilisations des données de la RATP\nCarte des connexions de gares en Europe ou ou carte “Jusqu’où peut-on aller en 5h de train ?”"
   }
 ]
